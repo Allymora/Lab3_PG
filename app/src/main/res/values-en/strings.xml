@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArteLista</string>
+    <string name="hint_UserName">Username:</string>
+    <string name="hint_Password">Password:</string>
+    <string name="strLogin">Login</string>
+</resources>
